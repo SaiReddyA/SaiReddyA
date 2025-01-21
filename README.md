@@ -37,7 +37,7 @@
 - **LinkedIn:** [Sai Reddy](www.linkedin.com/in/saireddy-dotnetfs)
 - **GitHub:** [Sai Reddy](https://github.com/SaiReddyA)
 - **Portfolio:** [My Portfolio](https://saireddysr.netlify.app/)  
--- **Email:** [My Mail](saireddy.1.1919@gmail.com)
+
 
 
 🌟 *Thank you for visiting my profile. Let’s collaborate and build something amazing together!* 🚀
