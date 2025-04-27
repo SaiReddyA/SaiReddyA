@@ -27,7 +27,9 @@
 - **Fundumentals of C# With Microsoft** (Microsoft & FreecodeCamp)  
 - **.NET Full-Stack Developer** (Skilliceberg)
 - **Power BI for Beginners** (Simplilearn)  
-- **Introduction Of SQL** (Simplilearn)   
+- **Introduction Of SQL** (Simplilearn)
+- **React JS For Beginners** (Simplilearn)   
+
 
 ---
 
