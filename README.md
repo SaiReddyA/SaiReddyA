@@ -16,7 +16,7 @@
 
 ## 🛠️ Technologies & Tools
 - **Languages:** C#, JavaScript, TypeScript, MS SQL
-- **Frameworks:** .NET (Core & MVC), Angular, Entity Framework
+- **Frameworks:** .NET (Core & MVC), Angular, Entity Framework, React JS
 - **Tools & Platforms:** Power BI, Git, Azure, Visual Studio, Visual Studio Code
 - **Others:** REST APIs, Unit Testing, Agile Development
 
