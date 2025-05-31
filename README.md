@@ -28,7 +28,9 @@
 - **.NET Full-Stack Developer** (Skilliceberg)
 - **Power BI for Beginners** (Simplilearn)  
 - **Introduction Of SQL** (Simplilearn)
-- **React JS For Beginners** (Simplilearn)   
+- **React JS For Beginners** (Simplilearn)
+- **Graphic Designer** (Simplilearn)   
+  
 
 
 ---
