@@ -29,7 +29,8 @@
 - **Power BI for Beginners** (Simplilearn)  
 - **Introduction Of SQL** (Simplilearn)
 - **React JS For Beginners** (Simplilearn)
-- **Graphic Designer** (Simplilearn)   
+- **Graphic Designer** (Simplilearn)
+- ****AI Agents for Beginners**   
   
 
 
@@ -39,8 +40,8 @@
 - **LinkedIn:** [Sai Reddy](www.linkedin.com/in/saireddy-dotnetfs)
 - **GitHub:** [Sai Reddy](https://github.com/SaiReddyA)
 - **Portfolio:** [My Portfolio](https://saireddysr.netlify.app/)  
-
-
+--****Company**: [Reach Website](https://srsoftwaresolutions.netlify.app)  
+ 
 
 🌟 *Thank you for visiting my profile. Let’s collaborate and build something amazing together!* 🚀
 
