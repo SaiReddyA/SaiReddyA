@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Sai Reddy! 
 
 🎯 **Full-Stack Developer | .NET & Angular Specialist**  
-📍 Based in Chennai, India  
+📍 Based in Chennai, Tamilnadu, India  
 
 ---
 
