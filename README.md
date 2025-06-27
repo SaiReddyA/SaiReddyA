@@ -30,7 +30,8 @@
 - **Introduction Of SQL** (Simplilearn)
 - **React JS For Beginners** (Simplilearn)
 - **Graphic Designer** (Simplilearn)
-- **AI Agents for Beginners**   
+- **AI Agents for Beginners**
+- **Advanced Python** 
   
 
 
