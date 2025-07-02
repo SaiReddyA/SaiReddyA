@@ -9,7 +9,7 @@
 - 🔭 Currently working at **Solve Corp** as a Full-Stack Developer.
 - 🌱 Always learning and exploring new technologies like **.NET MAUI** and **Power BI**.
 - 👯 Open to collaboration on exciting **web development** and **data visualization** projects.
-- 💬 Ask me about **C#, ASP.NET Core MVC, Angular, SQL Server, TypeScript, Javascript, ADO.Net, Dapper, Entity Framework, JQuery, SSIS Packaging, WPF, VueJs**, or anything tech-related!
+- 💬 Ask me about **C#, ASP.NET Core MVC, .Net Core, Angular, SQL Server, TypeScript, Javascript, ADO.Net, Dapper, Entity Framework, JQuery, SSIS Packaging, WPF, VueJs, React JS, Python **, or anything tech-related!
 - ⚡ Fun fact: I enjoy turning challenges into opportunities and thrive on continuous learning to stay ahead in tech.
 
 ---
