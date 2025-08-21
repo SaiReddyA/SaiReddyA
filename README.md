@@ -3,7 +3,6 @@
 🎯 **Full-Stack Developer | .NET & Angular Specialist**  
 📍 Based in Hyderabad, Telangana, India 
 
-
 ---
 
 
