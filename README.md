@@ -5,6 +5,7 @@
 
 ---
 ## 🛠️ About Me
+
 - 🔭 Currently working at **Solve Corp** as a Full-Stack Developer.
 - 🌱 Always learning and exploring new technologies like **.NET MAUI** and **Power BI**.
 - 👯 Open to collaboration on exciting **web development** and **data visualization** projects.
