@@ -40,7 +40,7 @@
 - **LinkedIn:** [Sai Reddy](www.linkedin.com/in/saireddy-dotnetfs)
 - **GitHub:** [Sai Reddy](https://github.com/SaiReddyA)
 - **Portfolio:** [My Portfolio](https://saireddysr.netlify.app/)  
-- **Company**: [Reach Website](https://srsoftwaresolutions.netlify.app)  
+- **Company**: [Reach Website]((https://sr-proskillbridge.netlify.app/))  
  
 
 🌟 *Thank you for visiting my profile. Let’s collaborate and build something amazing together!* 🚀
