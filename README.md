@@ -10,7 +10,7 @@
 - 👯 Open to collaboration on exciting **web development** and **data visualization** projects.
 - 💬 Ask me about **C#, ASP.NET Core MVC, .Net Core, Angular, SQL Server, TypeScript, Javascript, ADO.Net, Dapper, Entity Framework, JQuery, SSIS Packaging, WPF, VueJs, React JS, Azure **, or anything tech-related!
 - ⚡ Fun fact: I enjoy turning challenges into opportunities and thrive on continuous learning to stay ahead in tech.
-afs
+  
 ---
 
 ## 🛠️ Technologies & Tools
