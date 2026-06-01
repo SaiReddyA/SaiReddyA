@@ -3,7 +3,6 @@
 🎯 **Full-Stack Developer | .NET & Angular Specialist**  
 📍 Based in Hyderabad, Telangana, India.
 
-gg
 ---
 ## 🛠️ About Me
 - 🔭 Currently working at **Keka Technologies Private Limited** as a Full-Stack Developer.
