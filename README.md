@@ -40,7 +40,7 @@ saireddy-dotnetfs
 ## 📫 Let's Connect
 - **LinkedIn:** [Sai Reddy](www.linkedin.com/in/saireddy-dotnetfs)
 - **GitHub:** [Sai Reddy](https://github.com/SaiReddyA)
-- **Portfolio:** [My Portfolio](https://saireddysr.netlify.app/)  
+- **Portfolio:** [My Portfolio](https://saireddya.github.io/sai-reddy-dotnet-developer-portfolio/)  
 - **Company**: [Reach Website](https://srproskillbridge.in/)  
  
 
